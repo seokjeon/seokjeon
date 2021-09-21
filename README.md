@@ -21,7 +21,7 @@
     </div>
 </div>
 
-![Metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
+![Metrics](https://github.com/seokjeon/seokjeon/blob/master/github-metrics.svg)
 
 <br/>
 
