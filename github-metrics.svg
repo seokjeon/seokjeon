@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="286" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="322" class="">
     <defs>
         <style/>
     </defs>
@@ -1269,7 +1269,8 @@
                 <div class="row fill-width">
                     <section>
                         <div class="introduction">
-                        </div>
+            bio test bio test bio test bio test bio test bio test bio test bio test bio test bio test bio test bio test bio test bio test bio test 
+          </div>
                     </section>
                 </div>
             </section>
@@ -1328,7 +1329,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21/09/2021, 15:50 (timezone Asia/Seoul) with lowlighter/metrics@3.13.0</span>
+                <span>Last updated 21/09/2021, 16:00 (timezone Asia/Seoul) with lowlighter/metrics@3.13.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
