@@ -21,7 +21,7 @@
     </div>
 </div>
 
-<img src="https://github.com/seokjeon/seokjeon/blob/master/github-metrics.svg" alt="Metrics">
+![Metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
 
 <br/>
 
