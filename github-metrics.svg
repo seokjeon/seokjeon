@@ -1277,7 +1277,12 @@
                 <div class="row">
                     <section>
                         <div class="topics fill-width">
+                            <div class="label" title="Python is a dynamically typed programming language.">python</div>
+                            <div class="label" title="JavaScript (JS) is a lightweight interpreted programming language with first-class functions.">javascript</div>
+                            <div class="label" title="Node.js is a tool for executing JavaScript in a variety of environments.">node.js</div>
                             <div class="label" title="Django is a web application framework for Python.">django</div>
+                            <div class="label" title="Cybersecurity is the protection of computer hardware, software, and data from theft, damage, and malicious intent.">security</div>
+                            <div class="label" title="">startup</div>
                         </div>
                     </section>
                 </div>
