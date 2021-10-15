@@ -1376,6 +1376,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">Git: 실수를 되돌리는 5가지 방법</div>
+                                <div class="date">15/10/2021</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">기여할 오픈소스 고르는 방법</div>
                                 <div class="date">12/10/2021</div>
                             </div>
@@ -1396,15 +1405,6 @@
                             <div class="infos">
                                 <div class="title">활동적인 컨트리뷰터가 되는 법</div>
                                 <div class="date">28/09/2021</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">오픈소스 커뮤니티 컨트리뷰터가 되는 법</div>
-                                <div class="date">25/09/2021</div>
                             </div>
                         </div>
                     </section>
