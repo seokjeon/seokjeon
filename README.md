@@ -5,7 +5,7 @@
     </div>
     <p class="contact me">
         <br/>
-        <a href="https://linkedin.com/in/seokj">
+        <a href="https://linkedin.com/in/seok-jeon">
             <img alt="LinkdeIN" width="35px" src="https://camo.githubusercontent.com/4a592f7b53f20b0fdd4383e6d49721af0c7d0723202795f3ca0eb9fef526bace/68747470733a2f2f63646e2d69636f6e732e666c617469636f6e2e636f6d2f706e672f3531322f323538352f7072656d69756d2f323538353135382e706e673f746f6b656e3d6578703d313633363930333432307e686d61633d6366353463663837626637303266623837353633343262396562313064343634" />
         </a>
         <a href="mailto:seokj.tech@gmail.com">
