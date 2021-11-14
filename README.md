@@ -6,7 +6,7 @@
     <p class="contact me">
         <br/>
         <a href="https://linkedin.com/in/seokj">
-            <img alt="LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
+            <img alt="LinkdeIN" width="35px" src="https://cdn-icons-png.flaticon.com/512/1383/1383262.png" />
         </a>
         <a href="mailto:s.jade.jeon@gmail.com">
             <img alt="Mail" width="35px" src="https://image.flaticon.com/icons/png/128/3388/3388212.png"/>
