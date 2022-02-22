@@ -12,7 +12,7 @@
             <img alt="Mail" width="35px" src="https://github.com/seokjeon/seokjeon/blob/master/assets/gmail.svg" />
         </a>
         <a href="https://seokjeon.github.io">
-            <img alt="Website" width="35px" src="https://github.com/seokjeon/seokjeon/blob/master/assets/gmail.svg" />
+            <img alt="Git Pages" width="35px" src="https://github.com/seokjeon/seokjeon/blob/master/assets/github.svg" />
         </a>
     </p>
 
