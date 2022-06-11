@@ -1,6 +1,6 @@
 ﻿<div align="center">
     <div class="brief intro">
-        <h1>Hi <div width="40px"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" /></div>, I'm JEON Se-Ok</h1>
+        <h1>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" />, I'm JEON Se-Ok</h1>
         <!-- <h3>Interested in Web Programming, Cybersecurity, Startup </h3> </p> -->
     </div>
     <p class="contact me">
